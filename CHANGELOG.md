@@ -1,3 +1,11 @@
+## 1.7.99 2025-12-29 <dave at tiredofit dot ca>
+
+Add EOL notice and deprecate image
+
+   ### Added
+      - RSpamd 3.14.2
+
+
 ## 1.7.36 2025-08-16 <dave at tiredofit dot ca>
 
    ### Added
